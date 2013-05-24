@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    we_the_people (0.0.1)
+    we_the_people (0.0.4)
       active_support
       json
       rest-client
@@ -12,8 +12,8 @@ GEM
     active_support (3.0.0)
       activesupport (= 3.0.0)
     activesupport (3.0.0)
-    json (1.7.7)
-    mime-types (1.21)
+    json (1.8.0)
+    mime-types (1.23)
     rest-client (1.6.7)
       mime-types (>= 1.16)
 
